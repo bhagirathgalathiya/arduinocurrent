@@ -23,3 +23,4 @@ Serial.print(Current,2); // the ‘2’ after voltage allows you to display 2 di
 delay(1000);
 
 }
+//use this
